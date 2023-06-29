@@ -1,0 +1,15 @@
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\bin\Debug\net6.0\Ejercicios sesión 1.exe
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\bin\Debug\net6.0\Ejercicios sesión 1.deps.json
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\bin\Debug\net6.0\Ejercicios sesión 1.runtimeconfig.json
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\bin\Debug\net6.0\Ejercicios sesión 1.dll
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\bin\Debug\net6.0\Ejercicios sesión 1.pdb
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\Ejercicios sesión 1.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\Ejercicios sesión 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\Ejercicios sesión 1.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\Ejercicios sesión 1.AssemblyInfo.cs
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\Ejercicios sesión 1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\Ejercicios sesión 1.dll
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\refint\Ejercicios sesión 1.dll
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\Ejercicios sesión 1.pdb
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\Ejercicios sesión 1.genruntimeconfig.cache
+C:\Users\tomas\source\repos\Tomideus\C-\OB C#\Ejercicios sesión 1\obj\Debug\net6.0\ref\Ejercicios sesión 1.dll
