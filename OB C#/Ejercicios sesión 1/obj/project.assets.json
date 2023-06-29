@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\Tomideus\\C-\\OB C#\\Ejercicios sesión 1\\Ejercicios sesión 1.csproj",
+      "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\Tomideus\\OB-C-shard\\OB C#\\Ejercicios sesión 1\\Ejercicios sesión 1.csproj",
       "projectName": "Ejercicios sesión 1",
-      "projectPath": "C:\\Users\\tomas\\source\\repos\\Tomideus\\C-\\OB C#\\Ejercicios sesión 1\\Ejercicios sesión 1.csproj",
+      "projectPath": "C:\\Users\\tomas\\source\\repos\\Tomideus\\OB-C-shard\\OB C#\\Ejercicios sesión 1\\Ejercicios sesión 1.csproj",
       "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomas\\source\\repos\\Tomideus\\C-\\OB C#\\Ejercicios sesión 1\\obj\\",
+      "outputPath": "C:\\Users\\tomas\\source\\repos\\Tomideus\\OB-C-shard\\OB C#\\Ejercicios sesión 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
